@@ -1,0 +1,52 @@
+pause
+
+draw
+pause
+
+X 0
+X 1
+X 3
+
+draw
+pause
+
+---
+
+M 0
+M 1
+M 2
+M 3
+M 4
+
+draw
+pause
+
+---
+
+H 0
+H 4
+
+draw
+pause
+
+---
+
+---
+
+H 0
+H 3
+H 4
+
+---
+
+draw
+pause
+
+M 0
+M 1
+M 2
+M 3
+M 4
+
+draw
+pause

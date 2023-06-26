@@ -1,0 +1,114 @@
+pause
+
+draw
+pause
+
+H 0
+H 2
+H 4
+H 6
+H 8
+
+draw
+pause
+
+X 1 : 0
+X 3 : 2
+X 5 : 4
+X 7 : 6
+X 9 : 8
+
+draw
+pause
+
+---
+
+---
+
+Z 1
+
+draw
+pause
+
+M 3
+
+draw
+pause
+
+Z 7
+
+draw
+pause
+
+Z 9
+
+draw
+pause
+
+W 1 7
+W 1 5
+
+draw
+pause
+
+---
+
+---
+
+H 0 1
+M 0
+M 1
+
+draw
+pause
+
+M 2
+
+draw
+pause
+
+H 4 5
+M 4
+M 5
+
+draw
+pause
+
+H 6 7
+M 6
+M 7
+
+draw
+pause
+
+H 8 9
+M 8
+M 9
+
+draw
+pause
+
+W 1 5
+W 1 7
+
+draw
+pause
+
+---
+
+M 0
+M 1
+
+M 4
+M 5
+
+M 6
+M 7
+
+M 8
+M 9
+
+draw
+prob 1 5 7 9
+pause
+

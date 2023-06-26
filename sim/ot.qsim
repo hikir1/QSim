@@ -1,0 +1,54 @@
+pause
+
+draw
+state 0..4
+pause
+
+X 0
+X 1
+X 4
+
+---
+
+M 0
+M 1
+M 2
+M 3
+M 4
+
+draw
+state 0..4
+pause
+
+---
+
+H 0
+H 3
+H 4
+
+draw
+state 0..4
+pause
+
+---
+---
+
+H 0
+H 3
+H 4
+
+draw
+state 0..4
+pause
+
+---
+
+M 0
+M 1
+M 2
+M 3
+M 4
+
+draw
+state 0..4
+pause
